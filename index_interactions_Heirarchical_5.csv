@@ -1,0 +1,753 @@
+Cluster_0,Cluster_1,Cluster_2,Cluster_3,Cluster_4
+[  4.00000000e+00   1.04330000e+04],[     0.  19879.],[ 1.  3.],[    54.  39304.],[    54.  46642.]
+[   12.  6684.],[  1.00000000e+00   1.98790000e+04],[ 4.  4.],[    54.  39304.],[  1.20000000e+01   4.71070000e+04]
+[  5.00000000e+00   1.04330000e+04],[  3.00000000e+00   1.98790000e+04],[ 5.  4.],[   292.  38308.],[   185.  47107.]
+[  6.00000000e+00   1.04330000e+04],[    27.  18887.],[ 6.  4.],[   489.  29981.],[   186.  47107.]
+[  7.00000000e+00   1.04330000e+04],[    25.  18887.],[ 7.  4.],[   455.  38155.],[    54.  46642.]
+[  4.00000000e+00   1.04330000e+04],[    35.  27456.],[   4.  448.],[   282.  33807.],[   264.  47551.]
+[  5.00000000e+00   1.04330000e+04],[    37.  27456.],[  4.  69.],[   279.  33807.],[   265.  47551.]
+[  6.00000000e+00   1.04330000e+04],[  1.20000000e+01   1.88870000e+04],[   4.  456.],[   656.  32575.],[   519.  50148.]
+[  7.00000000e+00   1.04330000e+04],[    54.  19879.],[  4.  90.],[   656.  31095.],[   455.  49497.]
+[   12.  6684.],[    59.  19879.],[ 12.  27.],[   656.  31097.],[   279.  49652.]
+[   12.  6684.],[    59.  19879.],[   12.  1353.],[   656.  29691.],[   761.  44075.]
+[   25.  6684.],[    60.  19879.],[ 25.  27.],[   732.  31048.],[   761.  50383.]
+[   27.  6684.],[    79.  19879.],[   27.  1353.],[   751.  30858.],[   828.  44067.]
+[   27.  4419.],[    85.  27910.],[ 12.  27.],[   761.  36027.],[  4.20000000e+01   4.66420000e+04]
+[   27.  6684.],[    79.  27910.],[   12.  1353.],[   828.  34652.],[   761.  42803.]
+[   74.  6684.],[    85.  19879.],[   27.  1353.],[   828.  38821.],[   761.  50822.]
+[   25.  4419.],[    97.  26562.],[   32.  1778.],[  7.00000000e+00   2.88750000e+04],[  4.20000000e+01   4.64390000e+04]
+[   97.  5800.],[   104.  26562.],[ 34.   1.],[  4.00000000e+00   2.88750000e+04],nan
+[  104.  5800.],[   112.  25780.],[ 35.   0.],nan,nan
+[   97.  5798.],[  1.20000000e+01   1.88870000e+04],[ 37.   0.],nan,nan
+[  104.  5798.],[   135.  18887.],[   39.  1249.],nan,nan
+[   97.  6684.],[  1.20000000e+01   1.88870000e+04],[   40.  1249.],nan,nan
+[  104.  6684.],[   185.  18887.],[ 42.   3.],nan,nan
+[   97.  8584.],[   186.  18887.],[  3.  50.],nan,nan
+[  104.  8584.],[   292.  19879.],[  3.  50.],nan,nan
+[  135.  6951.],[   297.  18885.],[  3.  47.],nan,nan
+[  135.  5534.],[   282.  18885.],[  3.  47.],nan,nan
+[  135.  5799.],[   279.  18885.],[   47.  1249.],nan,nan
+[  135.  8359.],[   366.  18867.],[ 47.  48.],nan,nan
+[   12.  6388.],[   292.  24408.],[ 47.  49.],nan,nan
+[  135.  6388.],[   451.  26470.],[ 50.  47.],nan,nan
+[   12.  6684.],[   489.  24445.],[ 42.  53.],nan,nan
+[   12.  6565.],[   282.  18885.],[  3.  53.],nan,nan
+[  135.  6684.],[   279.  18885.],[   53.  1249.],nan,nan
+[  135.  6565.],[   551.  24445.],[ 54.  54.],nan,nan
+[  152.  6388.],[   561.  24445.],[ 54.  59.],nan,nan
+[   160.  10433.],[   455.  24445.],[ 54.  59.],nan,nan
+[   12.  6388.],[   455.  25499.],[ 60.  59.],nan,nan
+[  135.  6388.],[   279.  18885.],[ 60.  63.],nan,nan
+[  180.  5461.],[   656.  18362.],[ 64.   0.],nan,nan
+[  180.  5461.],[   455.  24445.],[ 65.   0.],nan,nan
+[  180.  5461.],[   696.  19786.],[   66.  1249.],nan,nan
+[   12.  6388.],[   519.  19786.],[ 25.  27.],nan,nan
+[  185.  6388.],[   719.  19879.],[ 69.  90.],nan,nan
+[  186.  6388.],[   730.  19879.],[ 27.  70.],nan,nan
+[   12.  6684.],[   731.  19879.],[ 69.  90.],nan,nan
+[  185.  6684.],[   279.  18885.],[ 69.  75.],nan,nan
+[  186.  6684.],[   292.  19879.],[  77.  373.],nan,nan
+[  202.  6388.],[   828.  19786.],[ 12.  80.],nan,nan
+[   12.  7135.],[   292.  25120.],[ 79.  80.],nan,nan
+[  185.  7135.],[   828.  18100.],[   80.  1353.],nan,nan
+[  186.  7135.],[   761.  27456.],[ 81.  81.],nan,nan
+[  202.  7135.],[   917.  19786.],[ 82.  81.],nan,nan
+[  213.  6388.],[   943.  22106.],[   79.  1353.],nan,nan
+[    97.  14102.],[   943.  28138.],[ 85.  85.],nan,nan
+[   218.  14102.],[   943.  26562.],[ 79.  85.],nan,nan
+[   97.  7226.],nan,[   69.  3195.],nan,nan
+[  218.  7226.],nan,[   90.  1778.],nan,nan
+[   252.  14214.],nan,[   91.  3195.],nan,nan
+[   259.  15155.],nan,[ 69.  90.],nan,nan
+[  252.  3978.],nan,[ 90.  69.],nan,nan
+[  279.  5372.],nan,[ 91.  90.],nan,nan
+[  279.  6436.],nan,[ 32.  90.],nan,nan
+[  282.  6436.],nan,[  97.  554.],nan,nan
+[  294.  6436.],nan,[  98.  373.],nan,nan
+[  295.  6436.],nan,[   32.  3195.],nan,nan
+[  296.  6436.],nan,[  98.  100.],nan,nan
+[  297.  9537.],nan,[  97.  731.],nan,nan
+[  282.  9537.],nan,[  97.  719.],nan,nan
+[  279.  9537.],nan,[   97.  1099.],nan,nan
+[   297.  12359.],nan,[ 104.  731.],nan,nan
+[   282.  12359.],nan,[ 105.  373.],nan,nan
+[   279.  12359.],nan,[ 104.  719.],nan,nan
+[   279.  12359.],nan,[  104.  1099.],nan,nan
+[   279.  12359.],nan,[  97.  108.],nan,nan
+[   279.  12359.],nan,[ 104.  554.],nan,nan
+[   279.  12359.],nan,[  110.  1964.],nan,nan
+[   279.  12359.],nan,[  97.  293.],nan,nan
+[   352.  12359.],nan,[ 112.   69.],nan,nan
+[   357.  11990.],nan,[ 104.  293.],nan,nan
+[  366.  9537.],nan,[ 114.  252.],nan,nan
+[    69.  11031.],nan,[  97.  117.],nan,nan
+[    32.  11031.],nan,[ 104.  117.],nan,nan
+[   69.  8584.],nan,[  97.  123.],nan,nan
+[  373.  4615.],nan,[  32.  413.],nan,nan
+[   32.  8584.],nan,[ 104.  123.],nan,nan
+[  292.  5548.],nan,[ 129.   69.],nan,nan
+[  292.  9539.],nan,[   97.  2687.],nan,nan
+[  292.  4461.],nan,[  104.  2687.],nan,nan
+[  292.  4302.],nan,[ 133.  373.],nan,nan
+[   292.  12600.],nan,[ 135.  152.],nan,nan
+[  400.  8574.],nan,[ 129.  112.],nan,nan
+[   401.  15160.],nan,[ 135.  138.],nan,nan
+[   402.  15160.],nan,[   12.  1353.],nan,nan
+[   400.  11031.],nan,[  135.  1353.],nan,nan
+[   451.  10433.],nan,[ 129.  112.],nan,nan
+[   400.  11254.],nan,[ 135.  152.],nan,nan
+[  464.  9332.],nan,[  152.  1353.],nan,nan
+[  448.  9153.],nan,[  12.  554.],nan,nan
+[  448.  9153.],nan,[ 155.   90.],nan,nan
+[   487.  13371.],nan,[   12.  1693.],nan,nan
+[   488.  13371.],nan,[ 90.  69.],nan,nan
+[   448.  11031.],nan,[  135.  1693.],nan,nan
+[   448.  14871.],nan,[  152.  1693.],nan,nan
+[   527.  11051.],nan,[ 161.   54.],nan,nan
+[  282.  4950.],nan,[ 162.   54.],nan,nan
+[  279.  4950.],nan,[ 161.    0.],nan,nan
+[  621.  7991.],nan,[ 162.    0.],nan,nan
+[  279.  4615.],nan,[ 165.   90.],nan,nan
+[   279.  14645.],nan,[ 166.  292.],nan,nan
+[  279.  7596.],nan,[ 167.  292.],nan,nan
+[  279.  6436.],nan,[ 168.  292.],nan,nan
+[  455.  4510.],nan,[ 166.  292.],nan,nan
+[   656.  13367.],nan,[ 167.  292.],nan,nan
+[  656.  4309.],nan,[ 168.  171.],nan,nan
+[  672.  6436.],nan,[   12.  1353.],nan,nan
+[  674.  4547.],nan,[  135.  1353.],nan,nan
+[  578.  6436.],nan,[ 176.  176.],nan,nan
+[  694.  7980.],nan,[ 179.  179.],nan,nan
+[  279.  4058.],nan,[ 180.  179.],nan,nan
+[  279.  4793.],nan,[   12.  1353.],nan,nan
+[  373.  4058.],nan,[  185.  1353.],nan,nan
+[  279.  9537.],nan,[  186.  1353.],nan,nan
+[  279.  8261.],nan,[  54.  292.],nan,nan
+[   715.  10433.],nan,[   54.  1707.],nan,nan
+[    42.  10433.],nan,[ 195.   54.],nan,nan
+[   711.  10433.],nan,[  54.  195.],nan,nan
+[  720.  7225.],nan,[  54.  292.],nan,nan
+[   722.  10433.],nan,[  54.  292.],nan,nan
+[  710.  6830.],nan,[  202.  1353.],nan,nan
+[  5.00000000e+00   8.58400000e+03],nan,[  12.  208.],nan,nan
+[  4.00000000e+00   8.58400000e+03],nan,[  12.  213.],nan,nan
+[   292.  14208.],nan,[  213.  1353.],nan,nan
+[  279.  9537.],nan,[  97.  218.],nan,nan
+[   279.  12707.],nan,[  97.  216.],nan,nan
+[  292.  4461.],nan,[  97.  719.],nan,nan
+[   69.  8645.],nan,[ 97.  85.],nan,nan
+[   32.  8645.],nan,[ 218.  719.],nan,nan
+[  828.  4309.],nan,[ 218.   85.],nan,nan
+[  828.  7025.],nan,[ 97.  70.],nan,nan
+[  828.  7135.],nan,[   97.  3308.],nan,nan
+[  828.  8865.],nan,[ 218.   70.],nan,nan
+[   828.  11096.],nan,[  218.  3308.],nan,nan
+[  828.  5219.],nan,[  97.  229.],nan,nan
+[  828.  6388.],nan,[ 218.  229.],nan,nan
+[   69.  8645.],nan,[ 12.  70.],nan,nan
+[   448.  10433.],nan,[ 12.  70.],nan,nan
+[   923.  11082.],nan,[ 12.  70.],nan,nan
+[   922.  11082.],nan,[   54.  3033.],nan,nan
+[  937.  9748.],nan,[   54.  3033.],nan,nan
+[  943.  7991.],nan,[  54.  239.],nan,nan
+[   943.  10846.],nan,[  54.  242.],nan,nan
+[   969.  11082.],nan,[  54.  242.],nan,nan
+[  5.00000000e+00   1.04330000e+04],nan,[ 242.  242.],nan,nan
+[  7.00000000e+00   1.04330000e+04],nan,[  54.  242.],nan,nan
+[   978.  10433.],nan,[  54.  244.],nan,nan
+[  978.  4039.],nan,[  54.  244.],nan,nan
+nan,nan,[  54.  246.],nan,nan
+nan,nan,[  54.  246.],nan,nan
+nan,nan,[   54.  1787.],nan,nan
+nan,nan,[   54.  1787.],nan,nan
+nan,nan,[ 250.  250.],nan,nan
+nan,nan,[ 250.   54.],nan,nan
+nan,nan,[ 253.  292.],nan,nan
+nan,nan,[ 252.  254.],nan,nan
+nan,nan,[ 252.  255.],nan,nan
+nan,nan,[ 253.  292.],nan,nan
+nan,nan,[  257.  3521.],nan,nan
+nan,nan,[  252.  3521.],nan,nan
+nan,nan,[ 260.  252.],nan,nan
+nan,nan,[  262.  3521.],nan,nan
+nan,nan,[ 263.  263.],nan,nan
+nan,nan,[ 264.    0.],nan,nan
+nan,nan,[ 265.    0.],nan,nan
+nan,nan,[ 266.    0.],nan,nan
+nan,nan,[ 265.    0.],nan,nan
+nan,nan,[ 264.    0.],nan,nan
+nan,nan,[  265.  3016.],nan,nan
+nan,nan,[ 265.    3.],nan,nan
+nan,nan,[  264.  3016.],nan,nan
+nan,nan,[ 264.    3.],nan,nan
+nan,nan,[ 265.   54.],nan,nan
+nan,nan,[ 264.   54.],nan,nan
+nan,nan,[ 265.   39.],nan,nan
+nan,nan,[ 264.   39.],nan,nan
+nan,nan,[ 279.  719.],nan,nan
+nan,nan,[ 279.  719.],nan,nan
+nan,nan,[ 279.   12.],nan,nan
+nan,nan,[  279.  1767.],nan,nan
+nan,nan,[  279.  1353.],nan,nan
+nan,nan,[ 279.  345.],nan,nan
+nan,nan,[  282.  1767.],nan,nan
+nan,nan,[  282.  1353.],nan,nan
+nan,nan,[  279.  1692.],nan,nan
+nan,nan,[ 279.  294.],nan,nan
+nan,nan,[ 293.  294.],nan,nan
+nan,nan,[  297.  1341.],nan,nan
+nan,nan,[ 298.  373.],nan,nan
+nan,nan,[ 297.  362.],nan,nan
+nan,nan,[ 282.  362.],nan,nan
+nan,nan,[ 279.  362.],nan,nan
+nan,nan,[  282.  1341.],nan,nan
+nan,nan,[  279.  1341.],nan,nan
+nan,nan,[  279.  1282.],nan,nan
+nan,nan,[ 298.   42.],nan,nan
+nan,nan,[ 298.   42.],nan,nan
+nan,nan,[ 310.  292.],nan,nan
+nan,nan,[  297.  1357.],nan,nan
+nan,nan,[  282.  1357.],nan,nan
+nan,nan,[  279.  1357.],nan,nan
+nan,nan,[ 42.  81.],nan,nan
+nan,nan,[ 297.  318.],nan,nan
+nan,nan,[ 282.  318.],nan,nan
+nan,nan,[ 279.  318.],nan,nan
+nan,nan,[ 310.  292.],nan,nan
+nan,nan,[ 298.   81.],nan,nan
+nan,nan,[ 298.   42.],nan,nan
+nan,nan,[ 298.   42.],nan,nan
+nan,nan,[ 331.    3.],nan,nan
+nan,nan,[ 334.    3.],nan,nan
+nan,nan,[ 279.    4.],nan,nan
+nan,nan,[ 279.  336.],nan,nan
+nan,nan,[  39.  337.],nan,nan
+nan,nan,[  297.  1282.],nan,nan
+nan,nan,[  282.  1282.],nan,nan
+nan,nan,[  165.  1707.],nan,nan
+nan,nan,[ 279.  341.],nan,nan
+nan,nan,[  252.  1707.],nan,nan
+nan,nan,[  165.  1707.],nan,nan
+nan,nan,[ 279.  334.],nan,nan
+nan,nan,[  345.  1707.],nan,nan
+nan,nan,[  165.  1707.],nan,nan
+nan,nan,[  345.  1707.],nan,nan
+nan,nan,[  165.  1707.],nan,nan
+nan,nan,[  349.  1707.],nan,nan
+nan,nan,[  349.  1707.],nan,nan
+nan,nan,[ 279.   81.],nan,nan
+nan,nan,[  353.  1707.],nan,nan
+nan,nan,[   0.  354.],nan,nan
+nan,nan,[  54.  354.],nan,nan
+nan,nan,[  353.  1707.],nan,nan
+nan,nan,[ 358.  358.],nan,nan
+nan,nan,[ 359.  359.],nan,nan
+nan,nan,[ 360.  359.],nan,nan
+nan,nan,[ 361.  361.],nan,nan
+nan,nan,[  362.  3107.],nan,nan
+nan,nan,[  292.  3281.],nan,nan
+nan,nan,[ 282.  366.],nan,nan
+nan,nan,[ 366.  367.],nan,nan
+nan,nan,[ 366.  368.],nan,nan
+nan,nan,[ 366.  369.],nan,nan
+nan,nan,[ 366.  371.],nan,nan
+nan,nan,[ 366.  760.],nan,nan
+nan,nan,[ 373.  760.],nan,nan
+nan,nan,[ 373.  376.],nan,nan
+nan,nan,[ 373.  377.],nan,nan
+nan,nan,[  373.  1994.],nan,nan
+nan,nan,[ 373.  366.],nan,nan
+nan,nan,[   69.  1099.],nan,nan
+nan,nan,[ 373.  384.],nan,nan
+nan,nan,[ 373.  367.],nan,nan
+nan,nan,[  373.  1341.],nan,nan
+nan,nan,[ 292.  388.],nan,nan
+nan,nan,[  292.  1615.],nan,nan
+nan,nan,[  69.  918.],nan,nan
+nan,nan,[ 292.  391.],nan,nan
+nan,nan,[ 292.  392.],nan,nan
+nan,nan,[ 292.   90.],nan,nan
+nan,nan,[  292.  3308.],nan,nan
+nan,nan,[  292.  2849.],nan,nan
+nan,nan,[ 400.  400.],nan,nan
+nan,nan,[ 401.  401.],nan,nan
+nan,nan,[ 402.  402.],nan,nan
+nan,nan,[ 403.  292.],nan,nan
+nan,nan,[ 292.  620.],nan,nan
+nan,nan,[ 292.  405.],nan,nan
+nan,nan,[ 401.  413.],nan,nan
+nan,nan,[ 402.  413.],nan,nan
+nan,nan,[ 400.  413.],nan,nan
+nan,nan,[  413.  1778.],nan,nan
+nan,nan,[  54.  180.],nan,nan
+nan,nan,[ 415.  415.],nan,nan
+nan,nan,[ 415.  416.],nan,nan
+nan,nan,[ 415.  417.],nan,nan
+nan,nan,[ 418.  171.],nan,nan
+nan,nan,[ 418.  292.],nan,nan
+nan,nan,[  292.  3281.],nan,nan
+nan,nan,[  292.  3281.],nan,nan
+nan,nan,[ 415.  422.],nan,nan
+nan,nan,[  3.  81.],nan,nan
+nan,nan,[ 424.   42.],nan,nan
+nan,nan,[ 424.    3.],nan,nan
+nan,nan,[ 292.  915.],nan,nan
+nan,nan,[  42.  427.],nan,nan
+nan,nan,[  42.  373.],nan,nan
+nan,nan,[ 429.  292.],nan,nan
+nan,nan,[ 292.  431.],nan,nan
+nan,nan,[ 432.  292.],nan,nan
+nan,nan,[ 292.  433.],nan,nan
+nan,nan,[ 292.  433.],nan,nan
+nan,nan,[ 292.  433.],nan,nan
+nan,nan,[ 292.  433.],nan,nan
+nan,nan,[ 292.  433.],nan,nan
+nan,nan,[ 292.  433.],nan,nan
+nan,nan,[ 415.  439.],nan,nan
+nan,nan,[ 440.  359.],nan,nan
+nan,nan,[ 441.  359.],nan,nan
+nan,nan,[ 442.  359.],nan,nan
+nan,nan,[ 442.  443.],nan,nan
+nan,nan,[ 400.  444.],nan,nan
+nan,nan,[ 445.  444.],nan,nan
+nan,nan,[ 400.  446.],nan,nan
+nan,nan,[ 447.  446.],nan,nan
+nan,nan,[ 448.  446.],nan,nan
+nan,nan,[  69.  446.],nan,nan
+nan,nan,[ 450.  446.],nan,nan
+nan,nan,[  451.  1341.],nan,nan
+nan,nan,[ 452.  446.],nan,nan
+nan,nan,[ 453.  446.],nan,nan
+nan,nan,[ 454.  446.],nan,nan
+nan,nan,[  455.  1661.],nan,nan
+nan,nan,[ 456.  446.],nan,nan
+nan,nan,[  400.  1778.],nan,nan
+nan,nan,[ 451.  660.],nan,nan
+nan,nan,[ 400.  464.],nan,nan
+nan,nan,[ 400.  463.],nan,nan
+nan,nan,[ 400.  467.],nan,nan
+nan,nan,[  400.  2487.],nan,nan
+nan,nan,[ 467.  400.],nan,nan
+nan,nan,[ 468.  358.],nan,nan
+nan,nan,[ 448.  400.],nan,nan
+nan,nan,[ 470.  400.],nan,nan
+nan,nan,[ 471.  400.],nan,nan
+nan,nan,[ 472.  400.],nan,nan
+nan,nan,[ 473.  400.],nan,nan
+nan,nan,[ 448.  445.],nan,nan
+nan,nan,[ 448.  402.],nan,nan
+nan,nan,[ 448.  400.],nan,nan
+nan,nan,[ 448.  445.],nan,nan
+nan,nan,[ 448.  402.],nan,nan
+nan,nan,[ 470.  400.],nan,nan
+nan,nan,[ 471.  400.],nan,nan
+nan,nan,[ 472.  400.],nan,nan
+nan,nan,[ 473.  400.],nan,nan
+nan,nan,[ 485.  400.],nan,nan
+nan,nan,[ 486.  448.],nan,nan
+nan,nan,[ 486.  447.],nan,nan
+nan,nan,[ 489.  491.],nan,nan
+nan,nan,[ 415.  440.],nan,nan
+nan,nan,[ 489.  493.],nan,nan
+nan,nan,[ 400.  448.],nan,nan
+nan,nan,[ 400.  447.],nan,nan
+nan,nan,[ 400.  448.],nan,nan
+nan,nan,[ 400.  447.],nan,nan
+nan,nan,[ 445.  448.],nan,nan
+nan,nan,[ 445.  447.],nan,nan
+nan,nan,[ 445.  448.],nan,nan
+nan,nan,[ 445.  447.],nan,nan
+nan,nan,[ 505.  455.],nan,nan
+nan,nan,[ 432.  403.],nan,nan
+nan,nan,[ 400.  448.],nan,nan
+nan,nan,[ 510.  455.],nan,nan
+nan,nan,[ 400.  511.],nan,nan
+nan,nan,[ 448.    4.],nan,nan
+nan,nan,[ 505.  455.],nan,nan
+nan,nan,[ 516.  439.],nan,nan
+nan,nan,[  282.  1250.],nan,nan
+nan,nan,[ 432.  620.],nan,nan
+nan,nan,[  279.  1250.],nan,nan
+nan,nan,[ 165.  455.],nan,nan
+nan,nan,[  282.  1341.],nan,nan
+nan,nan,[  432.  1551.],nan,nan
+nan,nan,[ 524.  455.],nan,nan
+nan,nan,[ 165.  455.],nan,nan
+nan,nan,[ 528.  292.],nan,nan
+nan,nan,[ 529.  292.],nan,nan
+nan,nan,[ 400.  530.],nan,nan
+nan,nan,[ 400.  760.],nan,nan
+nan,nan,[ 282.  937.],nan,nan
+nan,nan,[ 400.  533.],nan,nan
+nan,nan,[ 534.  536.],nan,nan
+nan,nan,[ 279.  937.],nan,nan
+nan,nan,[ 536.  400.],nan,nan
+nan,nan,[ 536.  400.],nan,nan
+nan,nan,[ 538.  536.],nan,nan
+nan,nan,[  66.  543.],nan,nan
+nan,nan,[ 534.  536.],nan,nan
+nan,nan,[ 541.  536.],nan,nan
+nan,nan,[ 542.  536.],nan,nan
+nan,nan,[  543.  1249.],nan,nan
+nan,nan,[  282.  1357.],nan,nan
+nan,nan,[  279.  1357.],nan,nan
+nan,nan,[  282.  3053.],nan,nan
+nan,nan,[  279.  3053.],nan,nan
+nan,nan,[  279.  2439.],nan,nan
+nan,nan,[  282.  2439.],nan,nan
+nan,nan,[ 543.  337.],nan,nan
+nan,nan,[ 552.  292.],nan,nan
+nan,nan,[ 551.  455.],nan,nan
+nan,nan,[ 554.  292.],nan,nan
+nan,nan,[  551.  1722.],nan,nan
+nan,nan,[  551.  3163.],nan,nan
+nan,nan,[  551.  3240.],nan,nan
+nan,nan,[ 282.  558.],nan,nan
+nan,nan,[ 551.  165.],nan,nan
+nan,nan,[ 560.  455.],nan,nan
+nan,nan,[  561.  2229.],nan,nan
+nan,nan,[ 279.  558.],nan,nan
+nan,nan,[ 165.  455.],nan,nan
+nan,nan,[  165.  3556.],nan,nan
+nan,nan,[ 568.  489.],nan,nan
+nan,nan,[ 568.  488.],nan,nan
+nan,nan,[  570.  1026.],nan,nan
+nan,nan,[  571.  1026.],nan,nan
+nan,nan,[ 572.  572.],nan,nan
+nan,nan,[ 572.  573.],nan,nan
+nan,nan,[ 574.  489.],nan,nan
+nan,nan,[ 282.  337.],nan,nan
+nan,nan,[ 576.  489.],nan,nan
+nan,nan,[ 279.  337.],nan,nan
+nan,nan,[ 578.  337.],nan,nan
+nan,nan,[ 579.  292.],nan,nan
+nan,nan,[ 579.  292.],nan,nan
+nan,nan,[ 581.  292.],nan,nan
+nan,nan,[ 581.  292.],nan,nan
+nan,nan,[ 583.  292.],nan,nan
+nan,nan,[ 583.  292.],nan,nan
+nan,nan,[ 585.  292.],nan,nan
+nan,nan,[ 585.  292.],nan,nan
+nan,nan,[ 578.  558.],nan,nan
+nan,nan,[ 588.  588.],nan,nan
+nan,nan,[ 589.  588.],nan,nan
+nan,nan,[ 4.  4.],nan,nan
+nan,nan,[   4.  591.],nan,nan
+nan,nan,[   4.  388.],nan,nan
+nan,nan,[   7.  388.],nan,nan
+nan,nan,[   5.  388.],nan,nan
+nan,nan,[ 4.  4.],nan,nan
+nan,nan,[ 7.  7.],nan,nan
+nan,nan,[ 5.  5.],nan,nan
+nan,nan,[ 4.  4.],nan,nan
+nan,nan,[ 599.    4.],nan,nan
+nan,nan,[   4.  992.],nan,nan
+nan,nan,[   4.  601.],nan,nan
+nan,nan,[ 4.  4.],nan,nan
+nan,nan,[ 599.  599.],nan,nan
+nan,nan,[ 310.  292.],nan,nan
+nan,nan,[ 310.  292.],nan,nan
+nan,nan,[ 576.  488.],nan,nan
+nan,nan,[ 607.  488.],nan,nan
+nan,nan,[ 608.  489.],nan,nan
+nan,nan,[ 607.  489.],nan,nan
+nan,nan,[ 165.  489.],nan,nan
+nan,nan,[ 345.  292.],nan,nan
+nan,nan,[ 612.  292.],nan,nan
+nan,nan,[ 612.  292.],nan,nan
+nan,nan,[ 165.  488.],nan,nan
+nan,nan,[ 615.  489.],nan,nan
+nan,nan,[ 576.  616.],nan,nan
+nan,nan,[ 165.  616.],nan,nan
+nan,nan,[ 618.   90.],nan,nan
+nan,nan,[ 618.  292.],nan,nan
+nan,nan,[ 620.  292.],nan,nan
+nan,nan,[ 621.  487.],nan,nan
+nan,nan,[  621.  1008.],nan,nan
+nan,nan,[  279.  1341.],nan,nan
+nan,nan,[ 455.  625.],nan,nan
+nan,nan,[ 626.  626.],nan,nan
+nan,nan,[ 279.  628.],nan,nan
+nan,nan,[  455.  1699.],nan,nan
+nan,nan,[ 455.  630.],nan,nan
+nan,nan,[ 279.  636.],nan,nan
+nan,nan,[ 637.  637.],nan,nan
+nan,nan,[ 279.  639.],nan,nan
+nan,nan,[ 279.  640.],nan,nan
+nan,nan,[ 279.  642.],nan,nan
+nan,nan,[ 279.  643.],nan,nan
+nan,nan,[ 279.  644.],nan,nan
+nan,nan,[ 645.  645.],nan,nan
+nan,nan,[ 645.  646.],nan,nan
+nan,nan,[ 279.  647.],nan,nan
+nan,nan,[ 279.  648.],nan,nan
+nan,nan,[ 279.  649.],nan,nan
+nan,nan,[  455.  1699.],nan,nan
+nan,nan,[  455.  1118.],nan,nan
+nan,nan,[ 455.  654.],nan,nan
+nan,nan,[  455.  1118.],nan,nan
+nan,nan,[ 656.  657.],nan,nan
+nan,nan,[ 659.  645.],nan,nan
+nan,nan,[  660.  1341.],nan,nan
+nan,nan,[ 656.  661.],nan,nan
+nan,nan,[ 656.  663.],nan,nan
+nan,nan,[  279.  1357.],nan,nan
+nan,nan,[ 656.  667.],nan,nan
+nan,nan,[ 670.  670.],nan,nan
+nan,nan,[  578.  1341.],nan,nan
+nan,nan,[  672.  1341.],nan,nan
+nan,nan,[  455.  1699.],nan,nan
+nan,nan,[  674.  2372.],nan,nan
+nan,nan,[  292.  2849.],nan,nan
+nan,nan,[  578.  1357.],nan,nan
+nan,nan,[  455.  3095.],nan,nan
+nan,nan,[ 681.  292.],nan,nan
+nan,nan,[ 681.  292.],nan,nan
+nan,nan,[ 683.  645.],nan,nan
+nan,nan,[ 684.  455.],nan,nan
+nan,nan,[ 266.  684.],nan,nan
+nan,nan,[ 176.  176.],nan,nan
+nan,nan,[ 687.  687.],nan,nan
+nan,nan,[ 292.  720.],nan,nan
+nan,nan,[ 689.  687.],nan,nan
+nan,nan,[  672.  1357.],nan,nan
+nan,nan,[ 684.  455.],nan,nan
+nan,nan,[ 693.  455.],nan,nan
+nan,nan,[ 694.  694.],nan,nan
+nan,nan,[ 279.   81.],nan,nan
+nan,nan,[ 699.  252.],nan,nan
+nan,nan,[ 700.  252.],nan,nan
+nan,nan,[  279.  1341.],nan,nan
+nan,nan,[  279.  1357.],nan,nan
+nan,nan,[  373.  1357.],nan,nan
+nan,nan,[ 279.  756.],nan,nan
+nan,nan,[  710.  1352.],nan,nan
+nan,nan,[ 711.   42.],nan,nan
+nan,nan,[ 711.  712.],nan,nan
+nan,nan,[  711.  2659.],nan,nan
+nan,nan,[ 711.  714.],nan,nan
+nan,nan,[ 292.  720.],nan,nan
+nan,nan,[ 719.   42.],nan,nan
+nan,nan,[ 719.  712.],nan,nan
+nan,nan,[ 711.  722.],nan,nan
+nan,nan,[ 715.  722.],nan,nan
+nan,nan,[ 725.  489.],nan,nan
+nan,nan,[  710.  2574.],nan,nan
+nan,nan,[  710.  1584.],nan,nan
+nan,nan,[ 732.  732.],nan,nan
+nan,nan,[ 732.  733.],nan,nan
+nan,nan,[  732.  2043.],nan,nan
+nan,nan,[  719.  3243.],nan,nan
+nan,nan,[  730.  3243.],nan,nan
+nan,nan,[ 719.  738.],nan,nan
+nan,nan,[ 730.  738.],nan,nan
+nan,nan,[ 740.  740.],nan,nan
+nan,nan,[ 741.  740.],nan,nan
+nan,nan,[ 742.  740.],nan,nan
+nan,nan,[ 743.  740.],nan,nan
+nan,nan,[ 744.  744.],nan,nan
+nan,nan,[ 745.  744.],nan,nan
+nan,nan,[ 746.  744.],nan,nan
+nan,nan,[ 747.  747.],nan,nan
+nan,nan,[ 748.  748.],nan,nan
+nan,nan,[ 360.  749.],nan,nan
+nan,nan,[ 360.  750.],nan,nan
+nan,nan,[ 752.  752.],nan,nan
+nan,nan,[ 753.  753.],nan,nan
+nan,nan,[ 753.  439.],nan,nan
+nan,nan,[    5.  2687.],nan,nan
+nan,nan,[ 756.   81.],nan,nan
+nan,nan,[   5.  337.],nan,nan
+nan,nan,[ 760.  763.],nan,nan
+nan,nan,[ 761.  452.],nan,nan
+nan,nan,[ 761.  762.],nan,nan
+nan,nan,[ 763.  763.],nan,nan
+nan,nan,[ 761.  764.],nan,nan
+nan,nan,[ 761.  765.],nan,nan
+nan,nan,[ 763.    4.],nan,nan
+nan,nan,[ 761.  768.],nan,nan
+nan,nan,[ 454.  763.],nan,nan
+nan,nan,[ 432.  915.],nan,nan
+nan,nan,[ 772.  994.],nan,nan
+nan,nan,[ 773.  773.],nan,nan
+nan,nan,[ 773.  774.],nan,nan
+nan,nan,[ 773.  775.],nan,nan
+nan,nan,[ 773.  776.],nan,nan
+nan,nan,[  773.  1051.],nan,nan
+nan,nan,[ 279.  779.],nan,nan
+nan,nan,[ 279.  384.],nan,nan
+nan,nan,[ 761.  781.],nan,nan
+nan,nan,[ 761.  782.],nan,nan
+nan,nan,[ 761.  783.],nan,nan
+nan,nan,[ 761.  785.],nan,nan
+nan,nan,[ 761.  786.],nan,nan
+nan,nan,[ 297.  779.],nan,nan
+nan,nan,[ 297.  779.],nan,nan
+nan,nan,[ 297.  779.],nan,nan
+nan,nan,[ 297.  779.],nan,nan
+nan,nan,[ 293.  779.],nan,nan
+nan,nan,[ 279.  779.],nan,nan
+nan,nan,[ 293.  779.],nan,nan
+nan,nan,[ 279.  937.],nan,nan
+nan,nan,[ 279.  362.],nan,nan
+nan,nan,[  279.  1357.],nan,nan
+nan,nan,[ 279.  558.],nan,nan
+nan,nan,[  279.  2687.],nan,nan
+nan,nan,[ 761.  802.],nan,nan
+nan,nan,[  761.  2649.],nan,nan
+nan,nan,[ 761.  804.],nan,nan
+nan,nan,[ 761.  805.],nan,nan
+nan,nan,[ 761.  806.],nan,nan
+nan,nan,[ 761.  807.],nan,nan
+nan,nan,[ 761.  808.],nan,nan
+nan,nan,[ 761.  809.],nan,nan
+nan,nan,[ 810.  810.],nan,nan
+nan,nan,[ 810.  292.],nan,nan
+nan,nan,[  810.  1707.],nan,nan
+nan,nan,[  69.  763.],nan,nan
+nan,nan,[  69.  815.],nan,nan
+nan,nan,[  32.  815.],nan,nan
+nan,nan,[  69.  763.],nan,nan
+nan,nan,[  32.  763.],nan,nan
+nan,nan,[  32.  763.],nan,nan
+nan,nan,[ 761.  820.],nan,nan
+nan,nan,[  69.  763.],nan,nan
+nan,nan,[ 823.  763.],nan,nan
+nan,nan,[ 823.   69.],nan,nan
+nan,nan,[ 760.   69.],nan,nan
+nan,nan,[ 828.  914.],nan,nan
+nan,nan,[ 292.  994.],nan,nan
+nan,nan,[ 828.  917.],nan,nan
+nan,nan,[ 828.  831.],nan,nan
+nan,nan,[ 828.  810.],nan,nan
+nan,nan,[ 828.  834.],nan,nan
+nan,nan,[ 828.  835.],nan,nan
+nan,nan,[  828.  1787.],nan,nan
+nan,nan,[ 828.  246.],nan,nan
+nan,nan,[ 828.  838.],nan,nan
+nan,nan,[ 828.  244.],nan,nan
+nan,nan,[ 828.  840.],nan,nan
+nan,nan,[ 828.  841.],nan,nan
+nan,nan,[ 828.  846.],nan,nan
+nan,nan,[ 828.  847.],nan,nan
+nan,nan,[ 828.  849.],nan,nan
+nan,nan,[ 828.  950.],nan,nan
+nan,nan,[ 828.  852.],nan,nan
+nan,nan,[ 828.  853.],nan,nan
+nan,nan,[ 725.  488.],nan,nan
+nan,nan,[ 725.  856.],nan,nan
+nan,nan,[ 857.  488.],nan,nan
+nan,nan,[ 725.  489.],nan,nan
+nan,nan,[ 828.  859.],nan,nan
+nan,nan,[ 828.  865.],nan,nan
+nan,nan,[ 828.  964.],nan,nan
+nan,nan,[ 867.  318.],nan,nan
+nan,nan,[ 867.  293.],nan,nan
+nan,nan,[ 867.  878.],nan,nan
+nan,nan,[ 867.  318.],nan,nan
+nan,nan,[ 871.  878.],nan,nan
+nan,nan,[ 867.  293.],nan,nan
+nan,nan,[ 867.  878.],nan,nan
+nan,nan,[ 867.  878.],nan,nan
+nan,nan,[ 867.  293.],nan,nan
+nan,nan,[ 876.  867.],nan,nan
+nan,nan,[ 293.  867.],nan,nan
+nan,nan,[ 878.  867.],nan,nan
+nan,nan,[ 292.   90.],nan,nan
+nan,nan,[   90.  2849.],nan,nan
+nan,nan,[  292.  2849.],nan,nan
+nan,nan,[  292.  2849.],nan,nan
+nan,nan,[ 279.  867.],nan,nan
+nan,nan,[   42.  3016.],nan,nan
+nan,nan,[ 761.  886.],nan,nan
+nan,nan,[ 761.  887.],nan,nan
+nan,nan,[  867.  3107.],nan,nan
+nan,nan,[ 761.  890.],nan,nan
+nan,nan,[ 761.  891.],nan,nan
+nan,nan,[ 867.   69.],nan,nan
+nan,nan,[ 761.  894.],nan,nan
+nan,nan,[ 432.  292.],nan,nan
+nan,nan,[ 761.  898.],nan,nan
+nan,nan,[ 761.  899.],nan,nan
+nan,nan,[ 761.  900.],nan,nan
+nan,nan,[ 761.  901.],nan,nan
+nan,nan,[ 761.  902.],nan,nan
+nan,nan,[ 761.  903.],nan,nan
+nan,nan,[ 761.  905.],nan,nan
+nan,nan,[ 761.  906.],nan,nan
+nan,nan,[ 761.  907.],nan,nan
+nan,nan,[ 761.  908.],nan,nan
+nan,nan,[ 761.  909.],nan,nan
+nan,nan,[ 910.  448.],nan,nan
+nan,nan,[ 911.  911.],nan,nan
+nan,nan,[ 912.  373.],nan,nan
+nan,nan,[ 912.  779.],nan,nan
+nan,nan,[ 914.  917.],nan,nan
+nan,nan,[ 915.  994.],nan,nan
+nan,nan,[ 916.  994.],nan,nan
+nan,nan,[ 917.  831.],nan,nan
+nan,nan,[ 918.  918.],nan,nan
+nan,nan,[ 919.  918.],nan,nan
+nan,nan,[ 922.   42.],nan,nan
+nan,nan,[ 923.   42.],nan,nan
+nan,nan,[ 924.   42.],nan,nan
+nan,nan,[   4.  244.],nan,nan
+nan,nan,[   7.  244.],nan,nan
+nan,nan,[   4.  246.],nan,nan
+nan,nan,[    4.  1787.],nan,nan
+nan,nan,[   7.  246.],nan,nan
+nan,nan,[    7.  1787.],nan,nan
+nan,nan,[ 934.  937.],nan,nan
+nan,nan,[ 660.  937.],nan,nan
+nan,nan,[ 451.  937.],nan,nan
+nan,nan,[ 660.  937.],nan,nan
+nan,nan,[ 451.  937.],nan,nan
+nan,nan,[ 940.  810.],nan,nan
+nan,nan,[ 660.  937.],nan,nan
+nan,nan,[ 451.  937.],nan,nan
+nan,nan,[ 810.  838.],nan,nan
+nan,nan,[ 943.  487.],nan,nan
+nan,nan,[ 943.  949.],nan,nan
+nan,nan,[ 950.  838.],nan,nan
+nan,nan,[ 943.  951.],nan,nan
+nan,nan,[ 660.  953.],nan,nan
+nan,nan,[ 451.  953.],nan,nan
+nan,nan,[ 950.  849.],nan,nan
+nan,nan,[  660.  1341.],nan,nan
+nan,nan,[ 943.  957.],nan,nan
+nan,nan,[  451.  1341.],nan,nan
+nan,nan,[  934.  1341.],nan,nan
+nan,nan,[  960.  1341.],nan,nan
+nan,nan,[  961.  1341.],nan,nan
+nan,nan,[  962.  1341.],nan,nan
+nan,nan,[ 963.  916.],nan,nan
+nan,nan,[ 964.  849.],nan,nan
+nan,nan,[ 451.  660.],nan,nan
+nan,nan,[ 451.  934.],nan,nan
+nan,nan,[ 451.  961.],nan,nan
+nan,nan,[ 451.  962.],nan,nan
+nan,nan,[ 969.    3.],nan,nan
+nan,nan,[  42.  971.],nan,nan
+nan,nan,[ 963.  916.],nan,nan
+nan,nan,[ 963.  916.],nan,nan
+nan,nan,[   4.  978.],nan,nan
+nan,nan,[   5.  978.],nan,nan
+nan,nan,[   7.  978.],nan,nan
+nan,nan,[   4.  978.],nan,nan
+nan,nan,[ 978.    4.],nan,nan
+nan,nan,[ 978.    4.],nan,nan
+nan,nan,[ 978.    5.],nan,nan
+nan,nan,[ 978.    7.],nan,nan
+nan,nan,[ 978.    4.],nan,nan
+nan,nan,[ 978.  992.],nan,nan
+nan,nan,[ 987.  916.],nan,nan
+nan,nan,[ 987.  810.],nan,nan
+nan,nan,[ 978.    4.],nan,nan
+nan,nan,[  987.  2261.],nan,nan
+nan,nan,[ 992.    4.],nan,nan
+nan,nan,[ 994.  915.],nan,nan
+nan,nan,[ 995.  915.],nan,nan
+nan,nan,[ 996.  943.],nan,nan
+nan,nan,[ 997.   81.],nan,nan
+nan,nan,[ 998.  943.],nan,nan
+nan,nan,[  997.  1707.],nan,nan
